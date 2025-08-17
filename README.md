@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b06531f3-2066-436e-a0e3-0a5f1b7d5118" alt="VitoDeploy>
     <p align="center">
-        <a href="https://github.com/vitodeploy/vito/actions"><img alt="GitHub Workflow Status" src="https://github.com/vitodeploy/vito/workflows/tests/badge.svg"></a>
+        <a href="https://github.com/SopheakSem/vito/actions"><img alt="GitHub Workflow Status" src="https://github.com/vitodeploy/vito/workflows/tests/badge.svg"></a>
     </p>
 </p>
 
@@ -15,7 +15,7 @@ production servers without a hassle.
 ## Quick Start
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/vitodeploy/vito/3.x/scripts/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/SopheakSem/vito/3.x/scripts/install.sh)
 ```
 
 ## Features
